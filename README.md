@@ -5,17 +5,11 @@
 
 - 🌱 I’m currently learning **Node.js, React, React Native**
 
-- 👯 I’m looking to collaborate on **Node.js CRUD apps**
+- 👨‍💻 All of my projects are available at [www.vishalfrontend.netlify.com](https://vishalmuthappaportfolio.vercel.app/)
 
-- 🤝 I’m looking for help with [Mr.-Sugarcakes](https://github.com/vishalsaraha/Mr.-Sugarcakes.git)
-
-- 👨‍💻 All of my projects are available at [www.vishalfrontend.netlify.com](www.vishalfrontend.netlify.com)
-
-- 💬 Ask me about **HTML, CSS, Js, Node.js**
+- 💬 Ask me about **HTML, CSS, Js, Next js, Node.js**
 
 - 📫 How to reach me **vishalsranm2001@gmail.com**
-
-- ⚡ Fun fact **Make cool website everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

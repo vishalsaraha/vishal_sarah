@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, React Native**
 
-- 👨‍💻 All of my projects are available at [www.vishalfrontend.netlify.com](https://vishalmuthappaportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Vishal Muthappa portfolio](https://vishalmuthappaportfolio.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, Js, Next js, Node.js**
 
